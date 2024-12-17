@@ -4,8 +4,6 @@
 ========================================================================================
 */
 
-include { DECOYPYRAT } from './decoypyrat'
-
 //
 // SUBWORKFLOW: Create input channels
 //
